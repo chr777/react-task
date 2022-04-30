@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "type": "LINK",
+      "details": {
+        "label": "GitHub link",
+        "required": "false",
+        "visible": "true",
+        "rows": 1
+      },
+      "id": 2
+    },
+    {
+      "type": "TEXT",
+      "details": {
+        "label": "works",
+        "required": "false",
+        "visible": "true",
+        "rows": "3"
+      },
+      "id": 3
+    },
+    {
+      "type": "LINK",
+      "details": {
+        "label": "not visible",
+        "required": false,
+        "visible": false,
+        "rows": 1
+      },
+      "id": 4
+    },
+    {
+      "type": "NAME",
+      "details": {
+        "label": "Name",
+        "required": true,
+        "visible": true,
+        "rows": 1
+      },
+      "id": 5
+    },
+    {
+      "type": "NAME",
+      "details": {
+        "label": "new",
+        "required": true,
+        "visible": false,
+        "rows": 1
+      },
+      "id": 6
+    }
+  ]
+}
